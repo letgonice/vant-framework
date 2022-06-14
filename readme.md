@@ -1,6 +1,7 @@
 # Vite+vue2项目模板
 ## 介绍
-集成Vite、vue2、vueRouter、Vuex、sass项目开发模板
+集成Vite、vue2、vueRouter、Vuex、sass,vant-ui项目开发模板
+
 
 注意：
 - 由于vue官网脚手架[vue-cli](https://cli.vuejs.org/zh/index.html)内置的构建工具webpack打包太慢，所以改为vite工具。
@@ -9,7 +10,7 @@
 ## 使用
 
 1. 克隆
-地址：https://gitee.com/ww24kobe/vite-vue2-vueRouter-vuex-sass
+地址：https://github.com/letgonice/vant-framework.git
 ```
 git clone 粘贴复制到的地址
 ```
